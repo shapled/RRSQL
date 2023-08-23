@@ -16,7 +16,4 @@ We value your feedback and suggestions for improving RRSQL. If you have any idea
 ## Software Download
 To download the latest version of RRSQL, please visit the "Releases" section of this repository. Select the appropriate version for your operating system and follow the installation instructions provided.
 
-## Contact
-If you have any further questions or inquiries regarding RRSQL, please contact our support team at support@rrsql.top.
-
 Thank you for your interest in RRSQL and for your contribution to its development!
